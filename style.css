@@ -1,0 +1,253 @@
+html {
+    background: url(images/gravel.png);
+    background-repeat: repeat;
+    padding: 0px;
+    margin: 0;
+}
+
+body {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    display: block;
+    border-bottom: 2px solid #ccc;
+    color: #777;
+    font-size: 18px;
+    width: 960px;
+    background: #fff;
+    width: 100%;
+    height: 100px;
+    margin: 0 auto;
+}
+
+.header {
+    width: 960px;
+    margin: 0 auto;
+    padding: 0px;
+}
+
+ul {
+    float: left;
+    list-style: none;
+    padding: 25px 0px 25px 25px
+}
+
+li {
+    display: inline-block;
+    float: left;
+    padding: 16px;
+
+}
+
+label {
+    display: block;
+}
+
+li a {
+    color: #777;
+    text-decoration: none;
+}
+
+
+.about {
+    padding: 16px 16px 16px 330px;
+}
+
+nav {
+    float: left;
+    margin-top: 66px;
+    display: block;
+}
+
+
+
+main {
+    clear: both;
+    width: 960px;
+    height: 100%;
+    font-size: 18px;
+    color: #777;
+    padding: 25px;
+    font: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    background-color: #fff;
+    margin: 0 auto;
+}
+
+#irina {
+    height: 225px;
+    width: 175px;
+    float: left;
+    padding: 25px 25px 25px 0px;
+}
+
+.irina {
+    font-size: 28px;
+    float: left;
+    padding: 25px 25px 25px 25px;
+    background: #4aaaa5;
+    color: #ffffff;
+    text-align: center;
+    font-family: font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+h1 {
+    font-family: font-family: 'Georgia', Times, Times New Roman, serif;
+    color: #4aaaa5;
+}
+
+section {
+    border-top: 3px solid #ddd;
+    padding: 20px 0px 20px 0px
+}
+
+#message,
+#email,
+#name {
+    width: 100%;
+}
+
+.photos {}
+
+/*.box {
+    background: size: cover;
+    height: 175px;
+    width: 225px;
+
+}*/
+
+.laptop {
+    background: url(images/laptop.jpg);
+    background-size: cover;
+    height: 175px;
+    width: 250px;
+    display: block;
+    padding: 25px 0px;
+    position: relative;
+    top: 8px;
+    right: 0px;
+}
+
+.hangman {
+    position: relative;
+    top: 135px;
+    right: 0%;
+    background: #4aaaa5;
+    background-size: 100% 10px;
+    padding: 10px;
+    text-align: center;
+    color: #fff;
+}
+
+
+.apple {
+    background: url(images/apple.jpg);
+    background-size: cover;
+    background-position: right;
+    height: 175px;
+    width: 250px;
+    display: block;
+    padding: 25px 0px;
+    position: relative;
+    top: 25px;
+    right: 0px;
+}
+
+.rpg {
+    position: relative;
+    top: 135px;
+    right: 0%;
+    background: #4aaaa5;
+    background-size: 100% 10px;
+    padding: 10px;
+    text-align: center;
+    color: #fff;
+}
+
+
+
+.headphones {
+    background: url(images/headphones.jpg);
+    background-size: cover;
+    background-position: bottom;
+    height: 175px;
+    width: 250px;
+    display: block;
+    padding: 25px 0px;
+    position: relative;
+    bottom: 379px;
+    left: 275px;
+
+
+}
+
+.trivia {
+    position: relative;
+    top: 135px;
+    right: 0%;
+    background: #4aaaa5;
+    background-size: 100% 10px;
+    padding: 10px;
+    text-align: center;
+    color: #fff;
+}
+
+
+.facebook {
+    background: url(images/phone.jpg);
+    background-size: cover;
+    background-position: bottom;
+    height: 175px;
+    width: 250px;
+    display: block;
+    padding: 25px 0px;
+    position: relative;
+    bottom: 360px;
+    left: 275px;
+
+}
+
+.rutgers {
+    position: relative;
+    top: 135px;
+    right: 0%;
+    background: #4aaaa5;
+    background-size: 100% 10px;
+    padding: 10px;
+    text-align: center;
+    color: #fff;
+}
+
+.computers {
+    background: url(images/computers.jpg);
+    background-size: cover;
+    height: 175px;
+    width: 250px;
+    display: block;
+    padding: 25px 0px;
+    position: relative;
+    bottom: 340px;
+    left: 0px;
+}
+
+.rock {
+    position: relative;
+    top: 135px;
+    right: 0%;
+    background: #4aaaa5;
+    background-size: 100% 10px;
+    padding: 10px;
+    text-align: center;
+    color: #fff;
+}
+
+footer {
+    border-top: 8px solid #4aaaa5;
+    clear: both;
+    background: #666666;
+    text-align: center;
+    padding: 25px 25px 25px 25px;
+    width: 100%;
+    color: #fff;
